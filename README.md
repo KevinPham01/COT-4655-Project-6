@@ -2,7 +2,7 @@
 
 Submitted by: **Kevin Pham**
 
-**TranslationMe** is an app that ... [TODO] 
+**TranslationMe** is an app that allows users to input a word, phrase, or sentence and translate it from one language to another using the MyMemory REST API. The app provides a simple interface with a field for text input, a button to initiate the translation, and an output field for the translated text. Additionally, TranslationMe supports data persistence by storing translation history in Firebase Firestore, enabling users to view past translations and clear their history. The app includes core functionalities with room for creativity in the user interface and potential enhancements like multi-language support and UI customization.
 
 Time spent: **2** hours spent in total
 
